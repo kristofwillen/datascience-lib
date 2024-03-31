@@ -8,6 +8,8 @@ seaborn = "*"
 jupyter = "*"
 lightgbm = "*"
 scikit-learn = "*"
+xgboost = "*"
+catboost = "*"
 
 [dev-packages]
 
